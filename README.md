@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jirka! 👋
 
-<!--
-**jiri-skala/jiri-skala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student @ CTU FEE (Otevřená informatika)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Currently pursuing a Bachelor's in **Open Informatics** at the Czech Technical University in Prague.
+- Experimenting with LLMs and agentic workflows
+- Passionate about linux and open source software (I use Arch, btw!)
+- Also interested in digital privacy and sovereignity 
+
+---
+
+### 💻 Tech Stack
+- **Languages:** Python (AI/Automation/Asynchronous programming), Rust (Systems), Java (Academic).
+- **AI/ML:** Ollama, OpenCode.
+- **Tools:** Docker, Git, Unix CLI, Bash Scripting.
+- **Operating Systems:** Linux (preferred), Windows.
+
+---
+
+### 📂 Featured Projects (Coming Soon)
+
+---
+
+### 📫 Connect with me
+- **Email:** jiri_skala@protonmail.com
+- **Location:** Czech Republic (Prague / Čerčany)
+- **Languages:** Czech (Native), English (C1)
