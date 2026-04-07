@@ -14,7 +14,7 @@
 
 ### 💻 Tech Stack
 - **Languages:** Python (AI/Automation/Asynchronous programming), Rust (Systems), Java (Academic).
-- **AI/ML:** Ollama, OpenCode.
+- **AI/ML:** Ollama, OpenCode, Github Copilot
 - **Tools:** Docker, Git, Unix CLI, Bash Scripting.
 - **Operating Systems:** Linux (preferred), Windows.
 
