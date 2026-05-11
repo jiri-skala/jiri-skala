@@ -5,10 +5,11 @@
 ---
 
 ### 🚀 About Me
-- Currently pursuing a Bachelor's in **Open Informatics** at the Czech Technical University in Prague.
+- Currently intern at Kyndryl
+- Pursuing a Bachelor's in **Open Informatics** at the Czech Technical University in Prague.
 - Experimenting with LLMs and agentic workflows
 - Passionate about linux and open source software (I use Arch, btw!)
-- Also interested in digital privacy and sovereignity 
+- Also interested in digital privacy and sovereignity
 
 ---
 
@@ -28,6 +29,3 @@
 - **Email:** jiri_skala@protonmail.com
 - **Location:** Czech Republic (Prague / Čerčany)
 - **Languages:** Czech (Native), English (C1)
-
-
-Testing commit 1
